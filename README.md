@@ -1,10 +1,8 @@
 <!-- Beginning -->
 
 
-
 <!-- Header Card -->
-![Header Card](https://github.com/AlphaLaser/trial-readme/blob/a822b99a548e2f96dc511a1297aff6ae950bffcd/ADIT%20MAGOTRA.png)
-
+![Header Card](https://user-images.githubusercontent.com/59497243/136092461-0e085f7c-ee75-4622-8c5a-5abb4a7f7411.png)
 
 <!-- Blank Space -->
 </br>
