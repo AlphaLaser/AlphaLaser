@@ -1,24 +1,133 @@
-## 👋 Hi there ! I'm Adit.
+<!-- Beginning -->
 
 
-### 🖥️  About Me
+
+<!-- Header Card -->
+![Header Card](https://github.com/AlphaLaser/trial-readme/blob/a822b99a548e2f96dc511a1297aff6ae950bffcd/ADIT%20MAGOTRA.png)
 
 
-- :technologist: I'm currently a Machine Learning Research and Development intern at ARQuest SSERN
-- :robot:  I mostly wok with Python and am currently exploring the world of machine learning and Data Science
-- :school: I study at Sanskriti School - New Delhi, India
-- :musical_note: : I am a big One Direction fan !
-- :notebook_with_decorative_cover: My favourite subjects are CS, Mathematics and Physics !
-- :tennis: Hobbies : Playing Tennis, Listening to music, Reading Books 
+<!-- Blank Space -->
+</br>
 
-<br><hr><br>
 
-### :keyboard: Languages and Frameworks
+<!-- About Me Header -->
+
+## 👨‍💻 About Me 
+
+
+<!-- Blank Space -->
+</br>
+
+
+<!-- Octocat -->
+<img align ="left" src = "https://user-images.githubusercontent.com/59497243/133923539-64ed8ef3-e392-4f50-8773-325e68b91f21.png" width = auto height = 200 > 
+
+
+<!-- Blank Space -->
+
+
+
+<!-- About Me text -->
+
+<ul style="list-style-type:none;">
+  <li >
+    ✒ I'm a 15 year old high schooler from Jammu, India currently studying in <b>Sanskriti School, New delhi</b>. 
+  </li>
+  <li>
+   🤖 I love working with Python and am currently exploring Machine/Deep Learning realms !
+  </li>
+  <li>
+    🎶 I'm a big time Directoner, occasionaly chilling to The Weeknd, BTS, Ava Max, Alan Walker, SHAED or Marshmello
+  </li>
+  <li>
+   🎾 I love to play Tennis 
+  </li>
+  <li>
+  🍔 I'm a huge foodie too !
+  </li>
+</ul>
+
+<!-- Blank Space -->
+</br>
+</br>
+
+
+
+<!-- Professional -->
+
+## 🖥 Professional
+
+<!-- Octocat - Work -->
+<img align ="left" src = "https://user-images.githubusercontent.com/59497243/133924859-91cd368f-07d9-4292-88d3-46c411bb54ff.png" width = auto height = 200 > 
+
+</br>
+</br>
+
+<ul>
+  <li>
+    👨🏻‍💼 Deep Learning Research and Development Intern  -  ARQuest SSERN   &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp<img src = "https://img.shields.io/badge/Status-Ongoing-orange">
+  </li>
+  <li>
+    👨🏻‍💻 Junior Head (AI and IoT Dept.) - ProjectBeta &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <img src = "https://img.shields.io/badge/Status-Ongoing-orange">
+  </li>
+  <li>
+    📊 Student Ambassador - Slingshot Ahead ( Techstars' 21 )  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <img src = "https://img.shields.io/badge/Status-Ongoing-orange">
+  </li>
+</ul>
+
+
+<!-- Blank Space -->
+</br>
+</br>
+</br>
+</br>
+
+    
+<!-- Tech Stack-->
+
+## 🛠 Tech Stack
+
+
+### Machine Learning / Deep Learning / Data Science
+
+</br>
+
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src = "https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"> ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+<hr>
+
+### Web/App Development
+
+#### Frontend
+
+
+
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+#### Backend
+
+</hr>
+
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### Design
+
+<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</hr>
+
+
+
 <br>
 
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /> <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+## 📊 Stats
 
-<br><hr><br>
+<br>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=AlphaLaser" > 
+</p>
 
 ## Social 
 
@@ -31,9 +140,7 @@
 
 
 
+<!-- 
 
-
-
-
-
-
+<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /> <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>  -->
