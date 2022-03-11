@@ -63,7 +63,7 @@
 
 <ul>
   <li>
-    👨🏻‍💼 Deep Learning Research and Development Intern  -  ARQuest SSERN   &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp<img src = "https://img.shields.io/badge/Status-Ongoing-orange">
+    👨🏻‍💼 Deep Learning Research and Development Intern  -  ARQuest SSERN   &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp<img src = "https://img.shields.io/badge/Status-Ended-brightgreen">
   </li>
   <li>
     👨🏻‍💻 Junior Head (AI and IoT Dept.) - ProjectBeta &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <img src = "https://img.shields.io/badge/Status-Ongoing-orange">
