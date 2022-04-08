@@ -69,7 +69,7 @@
     👨🏻‍💻 Junior Head (AI and IoT Dept.) - ProjectBeta &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <img src = "https://img.shields.io/badge/Status-Ongoing-orange">
   </li>
   <li>
-    📊 Student Ambassador - Slingshot Ahead ( Techstars' 21 )  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <img src = "https://img.shields.io/badge/Status-Ongoing-orange">
+    📊 Community and Growth Manager - Slingshot Ahead ( Techstars' 21 ) &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <img src = "https://img.shields.io/badge/Status-Ongoing-orange">
   </li>
 </ul>
 
