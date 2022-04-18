@@ -66,7 +66,7 @@
     👨🏻‍💼 Deep Learning Research and Development Intern  -  ARQuest SSERN   &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp<img src = "https://img.shields.io/badge/Status-Ended-brightgreen">
   </li>
   <li>
-    👨🏻‍💻 Junior Head (AI and IoT Dept.) - ProjectBeta &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <img src = "https://img.shields.io/badge/Status-Ongoing-orange">
+    👨🏻‍💻 Head of Department (Programming) - ProjectBeta  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <img src = "https://img.shields.io/badge/Status-Ongoing-orange">
   </li>
   <li>
     📊 Community and Growth Manager - Slingshot Ahead ( Techstars' 21 ) &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <img src = "https://img.shields.io/badge/Status-Ongoing-orange">
