@@ -29,7 +29,7 @@
 
 <ul style="list-style-type:none;">
   <li >
-    ✒ I'm a 15 year old high schooler from Jammu, India currently studying in <b>Sanskriti School, New delhi</b>. 
+    ✒ I'm a 16 year old high schooler from Jammu, India currently studying in <b>Sanskriti School, New delhi</b>. 
   </li>
   <li>
    🤖 I love working with Python and am currently exploring Machine/Deep Learning realms !
@@ -69,7 +69,7 @@
     👨🏻‍💻 Head of Department (Programming) - ProjectBeta  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <img src = "https://img.shields.io/badge/Status-Ongoing-orange">
   </li>
   <li>
-    📊 Community and Growth Manager - Slingshot Ahead ( Techstars' 21 ) &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <img src = "https://img.shields.io/badge/Status-Ongoing-orange">
+    📊 Community and Growth Manager - Slingshot Ahead ( Techstars' 21 ) &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <img src = "https://img.shields.io/badge/Status-Ended-brightgreen">
   </li>
 </ul>
 
