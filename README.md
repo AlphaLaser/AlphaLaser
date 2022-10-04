@@ -29,7 +29,7 @@
 
 <ul style="list-style-type:none;">
   <li >
-    ✒ I'm a 16 year old high schooler from Jammu, India currently studying in <b>Sanskriti School, New delhi</b>. 
+    ✒ I'm a 16 year old high schooler from New Delhi, India currently studying in <b>Sanskriti School</b>. 
   </li>
   <li>
    🤖 I love working with Python and am currently exploring Machine/Deep Learning realms !
