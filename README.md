@@ -32,13 +32,13 @@
     ✒ I'm a 16 year old high schooler from New Delhi, India currently studying in <b>Sanskriti School</b>. 
   </li>
   <li>
-   🤖 I love working with Python and am currently exploring Machine/Deep Learning realms !
+   🤖 I am a big time NLP fanboy and am currently conducting research on <a href="https://arxiv.org/abs/2210.16841">Actionable Phrase Detection</a>.
   </li>
   <li>
-    🎶 I'm a big time Directoner, occasionaly chilling to The Weeknd, BTS, Ava Max, Alan Walker, SHAED or Marshmello
+    🎶 I'm probably listening to The Weeknd, Eminem or One Direction right now.
   </li>
   <li>
-   🎾 I love to play Tennis 
+   🐶 I make memes in my free time :D
   </li>
   <li>
   🍔 I'm a huge foodie too !
