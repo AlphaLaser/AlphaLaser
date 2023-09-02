@@ -29,7 +29,7 @@
 
 <ul style="list-style-type:none;">
   <li >
-    ✒ I'm a 16 year old high schooler from New Delhi, India currently studying in <b>Sanskriti School</b>. 
+    ✒ I'm a 17 year old high schooler from New Delhi, India currently studying in <b>Sanskriti School</b>. 
   </li>
   <li>
    🤖 I am a big time NLP fanboy and am currently conducting research on <a href="https://arxiv.org/abs/2210.16841">Actionable Phrase Detection</a>.
@@ -41,7 +41,7 @@
    🐶 I make memes in my free time :D
   </li>
   <li>
-  🍔 I'm a huge foodie too !
+  🍔 I'm a huge foodie too!
   </li>
 </ul>
 
