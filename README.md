@@ -13,7 +13,7 @@ the_alphalaser@github ~ % intro.lsr
 
 > hiya - i'm adit. i just graduated from sanskriti school in new delhi, india. with organic chemistry finally off my hands, i'm spending most of my time building zap ⚡️. if not, i'm probably scrolling `r/cycling`, `r/birding`, `r/sneakers`, `r/ProgrammerHumor`, or torrenting a season of better call saul.
 >
-> update: i'm omw to pursue a bachelors degree in data science @ aalto university, finland. (probs with a double minor in computational finance and risk analysis + mathematics). feel free to hmu at adit.magotra@aalto.fi lol.
+> update: i'm omw to pursue a bachelors degree in data science @ aalto university, finland. feel free to hmu at adit.magotra@aalto.fi lol.
 
 <br>
 <hr>
